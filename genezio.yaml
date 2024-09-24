@@ -1,0 +1,9 @@
+frontend:
+    path: ./
+    publish: ""
+    scripts:
+        build: ""
+        deploy: ""
+name: activatewin
+region: eu-central-1
+yamlVersion: 2
